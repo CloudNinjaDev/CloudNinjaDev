@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **K8s**
 
-- 💬 Ask me about **Cloud computing, networking, Full stack, database, etc**
+- 💬 Ask me about **AWS, Cloud, Java, Postgres, CICD, etc**
 
 - 📫 How to reach me **ashish1382000@gmail.com**
 
