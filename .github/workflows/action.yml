@@ -1,6 +1,10 @@
 name: Update badges
 
 on:
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+    paths: ["readme.md", ".github/workflows/action.yml"]
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
