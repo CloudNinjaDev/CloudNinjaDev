@@ -24,8 +24,9 @@
 [![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](http://www.credly.com/badges/19c640c1-2730-4652-86da-16d1280de057 "IBM Cloud Essentials")
 <!--END_SECTION:badges-->
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+### Blogs posts
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudninjadev" alt="cloudninjadev" /></a> </p>
