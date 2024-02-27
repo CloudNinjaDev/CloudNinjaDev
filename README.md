@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-chaurasia-683630175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-chaurasia-683630175/" height="30" width="40" /></a>
+<a href="https://medium.com/@ashish-chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashish-chaurasia" height="30" width="40" /></a>
 </p>
 
 <!--[![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")-->
@@ -23,6 +24,9 @@
 [![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](http://www.credly.com/badges/19c640c1-2730-4652-86da-16d1280de057 "IBM Cloud Essentials")
 <!--END_SECTION:badges-->
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudninjadev" alt="cloudninjadev" /></a> </p>
 
