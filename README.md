@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudninjadev&label=Profile%20views&color=0e75b6&style=flat" alt="cloudninjadev" /> </p>
 
 - 🔭 I’m currently working on **AWS security and cost optimisation**
-
 - 🌱 I’m currently learning **K8s**
-
+- 👯 I’m looking to collaborate on **AWS SDK**
 - 💬 Ask me about **AWS, Cloud, Java, Postgres, CICD, etc**
-
 - 📫 How to reach me **ashish1382000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +14,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-chaurasia-683630175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-chaurasia-683630175/" height="30" width="40" /></a>
 <a href="https://medium.com/@ashish-chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashish-chaurasia" height="30" width="40" /></a>
 </p>
-
+<br></br>
 <!--[![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")-->
 <!--START_SECTION:badges-->
 [![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")
