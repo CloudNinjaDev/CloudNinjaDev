@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudninjadev&label=Profile%20views&color=0e75b6&style=flat" alt="cloudninjadev" /> </p>
 
+<div>
 [![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")
 <!--START_SECTION:badges-->
 [![Cloud Core](https://images.credly.com/size/110x110/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/3384ca7d-0033-4cc1-94d2-64fed76de995 "Cloud Core")
 [![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](http://www.credly.com/badges/19c640c1-2730-4652-86da-16d1280de057 "IBM Cloud Essentials")
 <!--END_SECTION:badges-->
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudninjadev" alt="cloudninjadev" /></a> </p>
 
