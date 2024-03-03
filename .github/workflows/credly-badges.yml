@@ -15,11 +15,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Badges - ashish1382000@gmail.com
+      - name: Badges - ashish.chaurasia@octanner.com
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: CloudNinjaDev/CloudNinjaDev # optional, By default, it will automatically use the repository who's executing the workflow.
           COMMIT_MESSAGE: "My commit message to update badges" # optional
-          CREDLY_USER: ${{ secrets.CREDLY_PROFILE_2 }} # optional, but default will use the same from github
+          CREDLY_USER: ${{ secrets.CREDLY_PROFILE_3 }} # optional, but default will use the same from github
           CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
