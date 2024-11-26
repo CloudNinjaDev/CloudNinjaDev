@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **AWS security, cost optimisation and CDK**
 - 🌱 I’m currently learning **K8s**, **AWS SAA-C03**, **Advance Architecting on AWS**
 - 👯 I’m looking to collaborate on **AWS SDK**
-- 💬 Ask me about **AWS, Cloud, Java, Postgres, CICD, IaC etc**
+- 💬 Ask me about **AWS, Cloud, Java, Postgres, CICD, IaC, Terraform, Ansible, etc**
 - 📫 How to reach me **ashish1382000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
