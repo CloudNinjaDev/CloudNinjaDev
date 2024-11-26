@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudninjadev&label=Profile%20views&color=0e75b6&style=flat" alt="cloudninjadev" /> </p>
 
 - 🔭 I’m currently working on **AWS security, cost optimisation and CDK**
-- 🌱 I’m currently learning **K8s**, **AWS SAA-C03**, **Advance Architecting on AWS**, **Kubernetes**
+- 🌱 I’m currently learning **K8s**, **AWS SAA-C03**, **Advance Architecting on AWS**
 - 👯 I’m looking to collaborate on **AWS SDK**
 - 💬 Ask me about **AWS, Cloud, Java, Postgres, CICD, IaC etc**
 - 📫 How to reach me **ashish1382000@gmail.com**
