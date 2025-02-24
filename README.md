@@ -17,8 +17,8 @@
 
 ### Credly Badges:
 [![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")
-[![Cloud Core](https://images.credly.com/size/110x110/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/3384ca7d-0033-4cc1-94d2-64fed76de995 "Cloud Core")
-[![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](https://www.credly.com/badges/3384ca7d-0033-4cc1-94d2-64fed76de995 "IBM Cloud Essentials")
+[![Cloud Core](https://images.credly.com/size/110x110/images/5ee26427-f944-4182-b802-459462184c9a/image.png)](https://www.credly.com/badges/3384ca7d-0033-4cc1-94d2-64fed76de995 "Cloud Essentials")
+[![IBM Cloud Essentials](https://images.credly.com/size/110x110/images/7d768acf-ce3c-4a05-9778-a5013b1211c9/blob](https://www.credly.com/badges/19c640c1-2730-4652-86da-16d1280de057 "IBM Cloud Essentials")
 <!--START_SECTION:badges-->
 [![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/63357f93-b4bb-4515-983c-a36c1d5bb86e "Well-Architected Proficient")
 <!--END_SECTION:badges-->
