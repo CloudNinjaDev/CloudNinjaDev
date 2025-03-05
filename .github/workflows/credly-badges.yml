@@ -17,13 +17,7 @@ jobs:
     steps:
       # [![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")
       - name: Badges - ashish.chaurasia@octanner.com
-        uses: pemtajo/badge-readme@main
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: CloudNinjaDev/CloudNinjaDev # optional, By default, it will automatically use the repository who's executing the workflow.
-          COMMIT_MESSAGE: "My commit message to update badges" # optional
-          CREDLY_USER: ashish-chaurasia.8c1164b8 # ${{ secrets.CREDLY_PROFILE_1 }} # optional, but default will use the same from github
-          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+        run: echo "[![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")"
       - name: Badges - ashish.chaurasia@octanner.com
         uses: pemtajo/badge-readme@main
         with:
