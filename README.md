@@ -18,7 +18,7 @@
 ### Credly Badges:
 [![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")
 <!--START_SECTION:badges-->
-[![Cloud Computing & Virtualization Graduate](https://images.credly.com/size/110x110/images/2fa4d7d3-5bed-4c77-abdc-6cd3517e0b53/Cloud_Computing-Virtualization_-_4_Star.png)](http://www.credly.com/badges/f00a4037-93a1-4727-b810-f8b19146a335 "Cloud Computing & Virtualization Graduate")
+[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/63357f93-b4bb-4515-983c-a36c1d5bb86e "Well-Architected Proficient")
 <!--END_SECTION:badges-->
 
 <!-- BLOG-POST-LIST:START -->
