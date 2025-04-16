@@ -5,13 +5,13 @@ on:
   push:
     branches: [ "main" ]
     paths: ["readme.md", ".github/workflows/action.yml"]
-  schedule:
-    # Runs at 2am UTC
-    - cron: "*/1 * * * *"
+  # schedule:
+    ## Runs at 2am UTC
+    # - cron: "*/1 * * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
-    runs-on: [ubuntu-latest, self-hosted, linux]
+    runs-on: [self-hosted, linux]
     permissions:
       contents: write
     steps:
