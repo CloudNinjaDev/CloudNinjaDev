@@ -7,11 +7,11 @@ on:
     paths: ["readme.md", ".github/workflows/action.yml"]
   schedule:
     # Runs at 2am UTC
-    - cron: "0 2 * * *"
+    - cron: "*/1 * * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
-    runs-on: ubuntu-latest
+    runs-on: [ubuntu-latest, self-hosted, linux]
     permissions:
       contents: write
     steps:
