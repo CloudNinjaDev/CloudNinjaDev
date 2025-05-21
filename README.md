@@ -69,6 +69,6 @@ certifications:
 
 ---
 
-<align="center">💡 “Great engineers aren’t born. They automate.”
+<h4 align="center">💡 “Great engineers aren’t born. They automate.”</h4>
 <br>
-<align="center">🖖 Thanks for stopping by!
+<h5 align="center">🖖 Thanks for stopping by!</h5>
