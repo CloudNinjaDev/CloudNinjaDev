@@ -48,9 +48,9 @@ certifications:
 ---
 
 🧩 **Fun Facts**
-🧠 I automate everything I repeat more than twice
-🤖 I name my scripts like Marvel characters
-☕ I run on caffeine and terminal logs
+- 🧠 I automate everything I repeat more than twice
+- 🤖 I name my scripts like Marvel characters
+- ☕ I run on caffeine and terminal logs
 
 ---
 
@@ -66,5 +66,9 @@ certifications:
 
 🌐 **Connect with Me**
 <p align="left"> <a href="https://www.linkedin.com/in/ashish-chaurasia-683630175/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://medium.com/@ashish-chaurasia" target="_blank"><img src="https://skillicons.dev/icons?i=medium" /></a> </p>
-💡 “Great engineers aren’t born. They automate.”
-🖖 Thanks for stopping by!
+
+---
+
+<align="center">💡 “Great engineers aren’t born. They automate.”
+<br>
+<align="center">🖖 Thanks for stopping by!
