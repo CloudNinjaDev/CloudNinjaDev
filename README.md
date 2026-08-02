@@ -8,9 +8,9 @@
 
 <br/>
 
-I design and run infrastructure across AWS, GCP, Azure, and bare metal — the kind of setup where "it depends" is a real answer. Lately that means self-managed Kubernetes clusters, VPN/P2P networking between environments, Velero-backed DR that's been tested, and observability stacks people actually look at. Off the clock I'm usually reading an RFC or breaking something on purpose to learn how it fails.
+Five years into infrastructure, currently leading a team of five engineers across a genuinely multi-cloud estate — AWS, GCP, Azure, OVHcloud, plus a self-managed Kubernetes footprint on bare metal. Everything ships through Terraform and GitHub Actions: 100% IaC, zero manual changes, GitOps via ArgoCD, and an observability stack (Grafana, Loki, Prometheus) people actually check before things break. Clouds talk to each other over private P2P/VPC peering with VPN-only access — no public exposure — and branch protection, CODEOWNERS, and secret scanning are the default, not an afterthought.
 
-I help teams turn "cloud costs are out of control" and "we'll fix security later" into actual line items on a roadmap — better IaC, tighter CI/CD, and processes that hold up once I'm not in the room.
+Earlier in those five years: migrated 250+ CI/CD pipelines to GitHub Actions and built auto-scaling self-hosted runners, cutting CI spend 60%; trimmed cloud costs by $20K+/month through governance automation across 50+ AWS accounts; stood up Velero + ArgoCD disaster recovery for Kubernetes; got VM provisioning with Ansible down from hours to under 10 minutes; and supported a 3000+ server data-center migration while patching and securing 1800+ Linux VMs along the way. When production breaks, I'm usually the one running the incident and writing the RCA after.
 
 <br/>
 
@@ -52,6 +52,8 @@ I help teams turn "cloud costs are out of control" and "we'll fix security later
 </table>
 
 **Networking & resilience:** ![VPN](https://img.shields.io/badge/VPN-1a1a2e?style=flat-square) ![P2P Mesh](https://img.shields.io/badge/P2P%20Mesh-1a1a2e?style=flat-square) ![Velero](https://img.shields.io/badge/Velero-1a1a2e?style=flat-square) ![Bare%20Metal](https://img.shields.io/badge/Bare%20Metal-1a1a2e?style=flat-square) ![Disaster%20Recovery](https://img.shields.io/badge/Disaster%20Recovery-1a1a2e?style=flat-square)
+
+**GitOps & tooling:** ![ArgoCD](https://img.shields.io/badge/ArgoCD-1a1a2e?style=flat-square) ![Loki](https://img.shields.io/badge/Loki-1a1a2e?style=flat-square) ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-1a1a2e?style=flat-square) ![PagerDuty](https://img.shields.io/badge/PagerDuty-1a1a2e?style=flat-square)
 
 <br/>
 
@@ -104,6 +106,7 @@ I help teams turn "cloud costs are out of control" and "we'll fix security later
 ### 🌐 Connect
 
 <p align="left">
+  <a href="https://ashishchaurasia.dev/" target="_blank"><img src="https://img.shields.io/badge/ashishchaurasia.dev-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ashish-chaurasia-683630175/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://medium.com/@ashish-chaurasia" target="_blank"><img src="https://skillicons.dev/icons?i=medium" /></a>
   <a href="mailto:ashish1382000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
