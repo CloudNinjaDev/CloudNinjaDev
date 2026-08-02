@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00ADD8&center=true&vCenter=true&width=650&lines=Multi-Cloud+Infrastructure+Engineer;Self-Managed+Kubernetes+on+Bare+Metal;VPN+%7C+P2P+%7C+Secure+Networking;Observability+%2B+Cost+%2B+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00ADD8&center=true&vCenter=true&width=650&lines=Multi-Cloud+Infrastructure+Engineer;Self-Managed+Kubernetes+on+Bare+Metal;VPN+%7C+P2P+%7C+Secure+Networking;Observability+%2B+Cost+%2B+Security&v=2" alt="Typing SVG" />
 
 <sub>Ashish Chaurasia · India</sub>
 
@@ -85,8 +85,8 @@ Earlier in those five years: migrated 250+ CI/CD pipelines to GitHub Actions and
 ### 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cloudninjadev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudninjadev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=cloudninjadev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cloudninjadev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <picture>
