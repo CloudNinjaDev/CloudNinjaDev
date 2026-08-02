@@ -87,8 +87,7 @@ Earlier in those five years: migrated 250+ CI/CD pipelines to GitHub Actions and
 ### 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=cloudninjadev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cloudninjadev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/CloudNinjaDev?style=for-the-badge&logo=github&label=followers&color=1a1a2e" />
 </p>
 
 <picture>
