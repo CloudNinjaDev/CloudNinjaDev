@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00ADD8&center=true&vCenter=true&width=650&lines=Multi-Cloud+Infrastructure+Engineer;Self-Managed+Kubernetes+on+Bare+Metal;VPN+%7C+P2P+%7C+Secure+Networking;Observability+%2B+Cost+%2B+Security&v=2" alt="Typing SVG" />
+# Ashish Chaurasia
 
-<sub>Ashish Chaurasia · India</sub>
+### Multi-Cloud Infrastructure &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Networking &nbsp;·&nbsp; DevSecOps
+
+<sub>India</sub>
 
 </div>
 
